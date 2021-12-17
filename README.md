@@ -12,6 +12,6 @@ Simple Recommender Engine menawarkan rekomendasi yang umum untuk semua user berd
 
 Ide awal di balik sistem rekomendasi ini adalah sebagai berikut.
 
-Film-film yang lebih populer akan memiliki kemungkinan yang lebih besar untuk disukai juga oleh rata-rata penonton.
-Model ini tidak memberikan rekomendasi yang personal untuk setiap tipe user. 
-Implementasi model ini pun juga bisa dibilang cukup mudah, yang perlu kita lakukan hanyalah mengurutkan film-film tersebut berdasarkan rating dan popularitas dan menunjukkan film teratas dari list film tersebut.
+1. Film-film yang lebih populer akan memiliki kemungkinan yang lebih besar untuk disukai juga oleh rata-rata penonton.
+2. Model ini tidak memberikan rekomendasi yang personal untuk setiap tipe user. 
+3. Implementasi model ini pun juga bisa dibilang cukup mudah, yang perlu kita lakukan hanyalah mengurutkan film-film tersebut berdasarkan rating dan popularitas dan menunjukkan film teratas dari list film tersebut.
